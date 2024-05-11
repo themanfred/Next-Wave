@@ -1,6 +1,10 @@
 # Atos website
 Development of a portal for the administration and visualization of the CV of applicants to the ATOS company. Additionally, the development of a video game whose purpose will be the preselection of interviews through questions and responses specific to the tools and/or programs to be used.
 
+Therefore, the objective of this project is the creation of a web application that allows interested candidates to register their Curriculum Vitae through a web page, which will generate a standardized format for all CVs that are registered in the corresponding database.
+
+Curriculum Vitae may be filtered under certain parameters by recruiters (or administrators) for greater optimization in the search for different profiles. On the other hand, the video game will be the technical interview format that the applicant must take. This will be based on what the applicant previously wrote or selected in their CV, specifically, on the vacancy to which they will be applying.
+
 <img width="626" alt="Atos" src="https://github.com/themanfred/Next-Wave/assets/42932766/0cb4fe61-be4c-4f73-8764-ca7719b6d8a1">
 
 ------
@@ -15,6 +19,30 @@ Development of a portal for the administration and visualization of the CV of ap
 https://www.figma.com/design/xmcRBUDioI1FQpUnutvXH4/Mockup_Digital_NW?node-id=0-1&t=sbrXz7KhE7BoP9gh-0
 
 - <img width="768" alt="FigmaAtos" src="https://github.com/themanfred/Next-Wave/assets/42932766/ce8f8b43-ade0-4d4b-8791-9f677a24cc92">
+
+## Stack
+● Front-End
+- CSS
+- HTML
+- Bootstrap
+- JavaScript
+- Git / Github
+● Back-End
+- MySQL
+- Rest API
+- Git / Github
+- C# .Net Core 5
+
+## Video game
+Para el videojuego (entrevista técnica) se cuentan con los siguientes:
+● UI
+- Unity
+- Git / Github
+● Back-End
+- MySQL
+- Rest API
+- Git / Github
+- C# .Net Core 5
 
 
 
