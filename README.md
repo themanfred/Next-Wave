@@ -33,6 +33,9 @@ https://www.figma.com/design/xmcRBUDioI1FQpUnutvXH4/Mockup_Digital_NW?node-id=0-
 Thomas Freund Paternostro 
 
 Iván Pérez Gutiérrez 
+
 Brandon Alan Hernández Flores 
+
 Axel Amos Hernández Cardenas 
+
 Ricardo Jorge Rodríguez Treviño 
