@@ -18,7 +18,7 @@ https://www.figma.com/design/xmcRBUDioI1FQpUnutvXH4/Mockup_Digital_NW?node-id=0-
 
 
 
-###Manuals:
+### Manuals:
 
 - Manual de Usuario para la Aplicación: https://docs.google.com/document/d/1Xd6ihkPXiwOKb0buMs-mCMk29XIPhvaQnYLM7puPfQ4/edit?usp=sharing 
 
