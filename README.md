@@ -3,8 +3,11 @@ Development of a portal for the administration and visualization of the CV of ap
 
 <img width="626" alt="Atos" src="https://github.com/themanfred/Next-Wave/assets/42932766/0cb4fe61-be4c-4f73-8764-ca7719b6d8a1">
 
+------
+
 <img width="454" alt="taco quest" src="https://github.com/themanfred/Next-Wave/assets/42932766/66867e42-1919-4a5f-a1e1-495ec5b2bf26">
 
+-------
 <img width="383" alt="tacoQuest" src="https://github.com/themanfred/Next-Wave/assets/42932766/77157394-44a0-48b6-811f-34ec262342bb">
 
 
