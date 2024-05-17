@@ -1,4 +1,7 @@
 # Atos website
+
+![2](https://github.com/themanfred/Next-Wave/assets/42932766/f650aaef-cd04-400f-a1ee-533d12c26768)
+
 Development of a portal for the administration and visualization of the CV of applicants to the ATOS company. Additionally, the development of a video game whose purpose will be the preselection of interviews through questions and responses specific to the tools and/or programs to be used.
 
 Therefore, the objective of this project is the creation of a web application that allows interested candidates to register their Curriculum Vitae through a web page, which will generate a standardized format for all CVs that are registered in the corresponding database.
